@@ -1,6 +1,5 @@
 ### Namaste🙏 I am Viraj Sabhaya!👋
-
-- 🔭 I’m currently working on Web_Poker
+<!-- - 🔭 I’m currently working on Web_Poker -->
 - 🌱 I’m currently learning AdvanceJava, Swift, and, Artificial Intelligence.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
