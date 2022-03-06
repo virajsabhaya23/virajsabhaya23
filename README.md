@@ -1,6 +1,6 @@
 ### Namaste🙏 I am Viraj Sabhaya!👋
 <!-- - 🔭 I’m currently working on Web_Poker -->
-- 🌱 I’m currently learning Automation using python, AWS, Swift, and, Artificial Intelligence.
+- 🌱 I’m currently learning Data Science, Software Development, ML & AI,and Swift.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [LinkedIn@vsabhaya23](https://www.linkedin.com/in/vsabhaya23/) ,  [Twitter@sabhaya_viraj](https://twitter.com/sabhaya_viraj)
 - ⚡ Fun fact: I like Mango salsa.
