@@ -1,5 +1,5 @@
 <!-- HEADER  -->
-<h1 align="center">Namaste 🙏, I am <a style="color: #9645F3; text-decoration: underline;text-decoration-style: dashed;" href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
+<h1 align="center">Namaste 🙏, I am <a href="https://virajsabhaya23.github.io/VS_WebPortfolio/"><span style="color: #9645F3; text-decoration: underline;text-decoration-style: solid;">Viraj Sabhaya!</span></a></h1>
 
 
 
@@ -36,12 +36,8 @@ me.say_hi()
 
 <!-- GITHUB STATUS -->
 
-<div style="display: flex; flex-direction: row;">
-
-![](https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple)
-
-</div>
+| <a href="https://github.com/virajsabhaya23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" alt="Hussain's github stats" /></a> | <a href="https://github.com/virajsabhaya23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" /></a> |
+| ------------- | ------------- |
 
 ---
 
