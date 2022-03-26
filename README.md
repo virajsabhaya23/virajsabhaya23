@@ -27,19 +27,19 @@
 class AboutMe:
 
     def __init__(self):
-        self.name = "Viraj Sabhaya"
+        self.Name = "Viraj Sabhaya"
         self.Current_edu = "University of Texas at Arlington"
         self.Major = "BCompSc."
-        self.language_spoken = ["en_US", "hi_IN", "gu_GJ"]
-        Hobbies = [
+        self.Language_Spoken = ["en_US", "hi_IN", "gu_GJ"]
+        self.Hobbies = [
                     'Working Out'
                     'Playing Badminton'
         ]
-        Fun_Fact = "I like Mango salsa."
+        self.Fun_Fact = "I like Mango salsa."
     
     def getLocation():
         return Arlington_Texas()
-        
+
     def say_hi(self):
         print("Welcome to my profile !")
 
