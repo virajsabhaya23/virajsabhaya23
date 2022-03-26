@@ -38,8 +38,8 @@ me.say_hi()
 
 <a href="https://github.com/virajsabhaya23/virajsabhaya23">
 
-![](https://github.com/virajsabhaya23/virajsabhaya23/GitHubStats.svg)
-![](https://github.com/virajsabhaya23/virajsabhaya23/MostUsedLanguages.svg)
+![](https://github.com/virajsabhaya23/virajsabhaya23/blob/main/GitHubStats.svg)
+![](https://github.com/virajsabhaya23/virajsabhaya23/blob/main/MostUsedLanguages.svg)
 
 </a>
 
