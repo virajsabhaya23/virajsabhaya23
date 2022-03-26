@@ -1,7 +1,7 @@
 <!-- HEADER  -->
 <div align="center">
 
-# Namaste 🙏, I am [Viraj Sabhaya!](https://virajsabhaya23.github.io/VS_WebPortfolio/)
+# <span style="color:#ff9933">*Namaste*</span> 🙏, I am <span style="color:#138808">[<span style="color:#138808">Viraj Sabhaya](https://virajsabhaya23.github.io/VS_WebPortfolio/)!</span>
 </div>
 
 <div align="center">
