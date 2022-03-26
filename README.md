@@ -1,9 +1,11 @@
-<h1 align="center"> Namaste🙏, I am <a href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
+<!-- HEADER  -->
+<h1 align="center">Namaste 🙏, I am <a style="color:#280137" href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
+
+
+<!-- ABOUT ME -->
+```
 class SoftwareEngineer:
 
     def __init__(self):
@@ -14,10 +16,9 @@ class SoftwareEngineer:
     class AboutMe:
         Current_edu = "University of Texas at Arlington"
         Hobbies = [
-                    'Drawing',
                     'Working Out'
                     'Playing Badminton'
-                    'Being up all Night chasing that ONE BUG...'
+                    'Being up all Night to fix that ONE BUG...'
                   ]
         Fun_Fact = "I like Mango salsa."
    
@@ -26,14 +27,16 @@ class SoftwareEngineer:
 
 
 me = SoftwareEngineer()
-me.say_Namaste()
+me.say_hi()
 ```
 
 
-<div align="center">
+
 <!-- GITHUB STATUS -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="VirajSabhaya23's Github Stats">
-</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" alt="virajsabhaya23" /></p>
+
+<p>&nbsp;<img alt="VirajSabhaya23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" /></a></p>
 
 ---
 
