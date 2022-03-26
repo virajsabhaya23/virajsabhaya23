@@ -36,20 +36,12 @@ me.say_hi()
 
 <!-- GITHUB STATUS -->
 
-<a href="https://github.com/virajsabhaya23/virajsabhaya23">
-
-![](https://github.com/virajsabhaya23/virajsabhaya23/blob/main/GitHubStats.svg)
-![](https://github.com/virajsabhaya23/virajsabhaya23/blob/main/MostUsedLanguages.svg)
-
-</a>
-
-
-<!-- <div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
 
 ![](https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple)
 
-</div> -->
+</div>
 
 ---
 
