@@ -1,5 +1,5 @@
 <!-- HEADER  -->
-<h1 align="center">Namaste 🙏, I am <a style="color: #9645F3; text-decoration: underline;text-decoration-style: solid;" href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
+<h1 align="center">Namaste 🙏, I am <a style="color: #9645F3; text-decoration: underline;text-decoration-style: dashed;" href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
 
 
 
