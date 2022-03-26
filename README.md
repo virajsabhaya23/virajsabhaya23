@@ -36,10 +36,10 @@ me.say_hi()
 
 <!-- GITHUB STATUS -->
 
-<a href="https://github.com/virajsabhaya23/github-stats">
+<a href="https://github.com/virajsabhaya23/virajsabhaya23">
 
 ![](https://github.com/virajsabhaya23/virajsabhaya23/GitHubStats.svg)
-![](https://github.com/virajsabhaya23/virajsabhaya23/generated/languages.svg)
+![](https://github.com/virajsabhaya23/virajsabhaya23/MostUsedLanguages.svg)
 
 </a>
 
