@@ -1,5 +1,5 @@
 <!-- HEADER  -->
-<h1 align="center">Namaste 🙏, I am <a style="color:#9645F3" href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
+<h1 align="center">Namaste 🙏, I am <a style="color: #9645F3; text-decoration: underline;text-decoration-style: solid;" href="https://virajsabhaya23.github.io/VS_WebPortfolio/">Viraj Sabhaya!</a></h1>
 
 
 
@@ -34,9 +34,8 @@ me.say_hi()
 
 <!-- GITHUB STATUS -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" alt="virajsabhaya23" /></p>
-
-<p>&nbsp;<img alt="VirajSabhaya23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" /></a></p>
+![](https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple)
 
 ---
 
