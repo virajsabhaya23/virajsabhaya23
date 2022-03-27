@@ -49,7 +49,7 @@ me.say_hi()
 
 <!-- GITHUB STATUS -->
 
-| <a href="https://github.com/virajsabhaya23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" alt=">Viraj's github stats" /></a> | <a href="https://github.com/virajsabhaya23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" alt=">Viraj's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" /> |
 | ------------- | ------------- |
 
 ---
