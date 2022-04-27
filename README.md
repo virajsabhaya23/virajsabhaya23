@@ -31,10 +31,6 @@ class AboutMe:
         self.Current_edu = "University of Texas at Arlington"
         self.Major = "BCompSc."
         self.Language_Spoken = ["en_US", "hi_IN", "gu_GJ"]
-        self.Hobbies = [
-                    'Working Out'
-                    'Playing Badminton'
-        ]
         self.Fun_Fact = "I like Mango salsa."
     
     def getLocation():
