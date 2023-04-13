@@ -4,7 +4,7 @@
 <!-- HEADER  -->
 <div align="center">
 
-# <span style="color:#ff9933">*Hello*</span> 🙏, I am <span style="color:#138808">[<span style="color:#138808">Viraj Sabhaya</span>](https://virajsabhaya23.github.io/VS_WebPortfolio/)💻!</span>
+# <span style="color:#ff9933">Hello</span> 👋, I am <span style="color:#138808">[<span style="color:#138808">Viraj Sabhaya </span>](https://virajsabhaya23.github.io/VS_WebPortfolio/)!</span>
 
 </div>
 
@@ -18,30 +18,6 @@
 </div>
 
 ---
-
-<!-- ABOUT ME -->
-```python 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class AboutMe:
-
-    def __init__(self):
-        self.Name = "Viraj Sabhaya"
-        self.Current_edu = "University of Texas at Arlington"
-        self.Major = "BCompSc."
-        self.Language_Spoken = ["en_US", "hi_IN", "gu_GJ"]
-        self.Fun_Fact = "I like Mango salsa."
-    
-    def getLocation():
-        return Arlington_Texas()
-
-    def say_hi(self):
-        print("Welcome to my profile !")
-
-me = AboutMe()
-me.say_hi()
-```
 
 <!-- GITHUB STATUS -->
 
