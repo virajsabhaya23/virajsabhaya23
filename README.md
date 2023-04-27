@@ -10,6 +10,7 @@
 
 <div align="center">
 <i><b>📫 Contact me: </i></b><br>
+<a href="https://virajsabhaya23.github.io/"><img src="https://img.shields.io/badge/-Portfolio-blueviolet" alt="portfolio"></a>
 <a href="mailto:virajvipinbhai.sabhaya@mavs.uta.edu"><img src="https://img.shields.io/badge/-EmailMe-brown" alt="email"></a>
 <a href="https://www.linkedin.com/in/vsabhaya23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/sabhaya_viraj" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
