@@ -1,15 +1,13 @@
-
 ---
-
 <!-- HEADER  -->
 <div align="center">
-
-# <span style="color:#ff9933">Hello</span> 👋, I am <span style="color:#138808">[<span style="color:#138808">Viraj Sabhaya </span>](https://virajsabhaya23.github.io/)!</span>
-
+  
+# <span style="color:#ff9933">[<span style="color:#138808">Viraj Sabhaya </span>](https://virajsabhaya23.github.io/)! 👋</span>
 </div>
 
 <div align="center">
 <i><b>📫 Contact me: </i></b><br>
+<a target="_blank" href="https://github.com/virajsabhaya23/VirajSabhaya_Resume/blob/main/VirajSabhaya_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-important" alt="resume"></a>
 <a target="_blank" href="https://virajsabhaya23.github.io/"><img src="https://img.shields.io/badge/-Portfolio-blueviolet" alt="portfolio"></a>
 <a target="_blank" href="mailto:virajvipinbhai.sabhaya@mavs.uta.edu"><img src="https://img.shields.io/badge/-EmailMe-brown" alt="email"></a>
 <a target="_blank" href="https://www.linkedin.com/in/vsabhaya23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -20,8 +18,9 @@
 ---
 
 <!-- GITHUB STATUS -->
-
+<div align="center">
+  
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=virajsabhaya23&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" alt=">Viraj's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsabhaya23&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-purple" /> |
 | ------------- | ------------- |
+</div>
 
----
