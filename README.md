@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<i><b>📫 Contact me: </i></b><br>
+<b>📫 Contact Me:&nbsp;</b>
 <a target="_blank" href="https://github.com/virajsabhaya23/VirajSabhaya_Resume/blob/main/VirajSabhaya_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-important" alt="resume"></a>
 <a target="_blank" href="https://virajsabhaya23.github.io/"><img src="https://img.shields.io/badge/-Portfolio-blueviolet" alt="portfolio"></a>
 <a target="_blank" href="mailto:virajvipinbhai.sabhaya@mavs.uta.edu"><img src="https://img.shields.io/badge/-EmailMe-brown" alt="email"></a>
