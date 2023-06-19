@@ -7,7 +7,7 @@
 
 <div align="center">
 <b>📫 Contact Me:&nbsp;</b>
-<a target="_blank" href="https://github.com/virajsabhaya23/VirajSabhaya_Resume/blob/main/VirajSabhaya_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-important" alt="resume"></a>
+<a target="_blank" href="https://drive.google.com/file/d/116_-pHDMpieTiSYbk4oor0QcSYTg7DD6/view"><img src="https://img.shields.io/badge/-Resume-important" alt="resume"></a>
 <a target="_blank" href="https://virajsabhaya23.github.io/"><img src="https://img.shields.io/badge/-Portfolio-blueviolet" alt="portfolio"></a>
 <a target="_blank" href="mailto:virajvipinbhai.sabhaya@mavs.uta.edu"><img src="https://img.shields.io/badge/-EmailMe-brown" alt="email"></a>
 <a target="_blank" href="https://www.linkedin.com/in/vsabhaya23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
