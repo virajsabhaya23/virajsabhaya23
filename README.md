@@ -3,6 +3,9 @@
 <div align="center">
   
 # <span style="color:#ff9933">[<span style="color:#138808">Viraj Sabhaya </span>](https://virajsabhaya23.github.io/)! 👋</span>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=virajsabhaya23.virajsabhaya23)
+
 </div>
 
 <div align="center">
